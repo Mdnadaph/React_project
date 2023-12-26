@@ -52,7 +52,7 @@ const handleEdit=({id})=>{
         </li>
        
       )
-      )};
+      )}
     </div>
   )
 }
